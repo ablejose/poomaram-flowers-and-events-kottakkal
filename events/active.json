@@ -1,0 +1,53 @@
+{
+  "slug": "poomaram-flowers-and-events-kottakkal",
+  "name": "Poomaram Flowers & Events",
+  "shortName": "Poomaram Flowers",
+  "descriptor": "Event Management",
+  "address": "2224+8WC, Arya Vaidya Sala Museum Rd, Kottakkal, Keralam 676503",
+  "area": "Kottakkal",
+  "city": "Kottakkal",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "676503",
+  "geo": {
+    "lat": 11.000803200000002,
+    "lng": 76.0072653
+  },
+  "mapsLink": "https://maps.google.com/?cid=7261111585792564585",
+  "phone": "+91 96565 36697",
+  "whatsapp": "919656536697",
+  "hours": "Open 5 am – 11 pm · all days",
+  "opens": "05:00",
+  "closes": "23:00",
+  "rating": 4.5,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "name": "muhammed safvan",
+      "rating": 5,
+      "quote": "Good flowershop in malappuram. Nice service, good innovative design, Premium quality and affordable price."
+    },
+    {
+      "name": "Faraah Fara",
+      "rating": 5,
+      "quote": "Best flower shop in Kottakkal.creativity is good."
+    },
+    {
+      "name": "Rukiya Rukiya pottengal",
+      "rating": 5,
+      "quote": "Adipoli bouquet design. Nice service"
+    },
+    {
+      "name": "110 Sahar Abdul jabbar",
+      "rating": 5,
+      "quote": "Fresh n beautiful flowers.. good service too"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://poomaram-flowers-and-events-kottakk.vercel.app"
+}
